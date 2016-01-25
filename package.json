@@ -9,7 +9,7 @@
     "url": "https://github.com/nlf/precommit-hook.git"
   },
   "dependencies": {
-    "git-validate": "^2.0.0",
+    "git-validate": "git://github.com/goodeggs/git-validate#support-submodules",
     "jshint": "*"
   },
   "scripts": {
